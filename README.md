@@ -3,7 +3,7 @@
 ## Submission
 1. Shiny application: https://kseniiaz.shinyapps.io/Coursera_Shiny_App/
 2. Github repository: https://github.com/kseniiaz/Corsera-Shiny-App
-3. Slides with documentation on RPubs: 
+3. Slides with documentation on RPubs: http://rpubs.com/kseniiaz/385746
 
 ## Instructions
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
